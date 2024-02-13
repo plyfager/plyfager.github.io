@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "YANG Yifei's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "YANG Yifei"
 description              : &description "personal description"
 url                      : https://plyfager.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "yifei.yang.ai@gmail.com"
+  email            : "yangyfaker@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
