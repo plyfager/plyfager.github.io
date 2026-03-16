@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "YANG Yifei's Personal Homepage"
 title_separator          : "-"
 name                     : &name "YANG Yifei"
-description              : &description "personal description"
+description              : &description "Ph.D. student at SMU. Research interests: Motion Synthesis, World Models, Generation Models."
 url                      : https://plyfager.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "plyfager/plyfager.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "YANG Yifei"
   avatar           : "profile.png"
-  bio              : "Singapore Management University"
+  bio              : "Ph.D. Student, Computer Science"
   location         : "Singapore"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            : "yangyfaker@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
