@@ -22,4 +22,4 @@ I obtained my Master's degree in Mathematics from [Shandong University (SDU)](ht
 
 ## Contact
 
-[Email](mailto:yangyfaker@gmail.com) / [GitHub](https://github.com/plyfager/) / [Wechat](../images/wechat.png)
+[Email](mailto:yangyfaker@gmail.com) / [GitHub](plyfager/) / [Wechat](../images/wechat.png)
